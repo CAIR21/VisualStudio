@@ -1,0 +1,299 @@
+C:\Users\CAIR\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\CAIR\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\CAIR\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\CAIR\Desktop\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\CAIR\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\CAIR\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\CAIR\Desktop\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\CAIR\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\CAIR\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\CAIR\Desktop\Paint\Paint\obj\Debug\Paint.Paint.resources
+D:\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Paint\Paint\bin\Debug\Paint.exe
+D:\Paint\Paint\bin\Debug\Paint.pdb
+D:\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\Paint\Paint\obj\Debug\Paint.Paint.resources
+D:\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Paint\Paint\obj\Debug\Paint.exe
+D:\Paint\Paint\obj\Debug\Paint.pdb
+F:\Paint\Paint\bin\Debug\Paint.exe.config
+F:\Paint\Paint\bin\Debug\Paint.exe
+F:\Paint\Paint\bin\Debug\Paint.pdb
+F:\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+F:\Paint\Paint\obj\Debug\Paint.Paint.resources
+F:\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+F:\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+F:\Paint\Paint\obj\Debug\Paint.exe
+F:\Paint\Paint\obj\Debug\Paint.pdb
+D:\Imprimir\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Imprimir\Paint\Paint\bin\Debug\Paint.exe
+D:\Imprimir\Paint\Paint\bin\Debug\Paint.pdb
+D:\Imprimir\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\Imprimir\Paint\Paint\obj\Debug\Paint.Paint.resources
+D:\Imprimir\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Imprimir\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Imprimir\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Imprimir\Paint\Paint\obj\Debug\Paint.exe
+D:\Imprimir\Paint\Paint\obj\Debug\Paint.pdb
+G:\Paint\Paint\bin\Debug\Paint.exe.config
+G:\Paint\Paint\bin\Debug\Paint.exe
+G:\Paint\Paint\bin\Debug\Paint.pdb
+G:\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+G:\Paint\Paint\obj\Debug\Paint.Paint.resources
+G:\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+G:\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+G:\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+G:\Paint\Paint\obj\Debug\Paint.exe
+G:\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\CAIR\Desktop\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\CAIR\Desktop\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\CAIR\Desktop\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\CAIR\Desktop\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\CAIR\Desktop\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\CAIR\Desktop\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\CAIR\Desktop\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\CAIR\Desktop\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\CAIR\Desktop\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\CAIR\Desktop\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.pdb
+D:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe
+D:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.pdb
+D:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Paint.resources
+D:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.exe
+D:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.pdb
+G:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe.config
+G:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe
+G:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.pdb
+G:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+G:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Paint.resources
+G:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+G:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+G:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+G:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.exe
+G:\Nueva carpeta\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\CAIR\Desktop\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Ayuda.resources
+C:\Users\CAIR\Desktop\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\CAIR\Desktop\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\CAIR\Desktop\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.pdb
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Ayuda.resources
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Paint.resources
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.exe
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.pdb
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe.config
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.pdb
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Ayuda.resources
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Paint.resources
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.exe
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.pdb
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe.config
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.pdb
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Ayuda.resources
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Paint.resources
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.exe
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.pdb
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe.config
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.pdb
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Ayuda.resources
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Paint.resources
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.exe
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.pdb
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe.config
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.pdb
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Ayuda.resources
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Paint.resources
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.exe
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.pdb
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.pdb
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Ayuda.resources
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Paint.resources
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.exe
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.pdb
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe.config
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.pdb
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Ayuda.resources
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Paint.resources
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.exe
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.pdb
+E:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe.config
+E:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe
+E:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.pdb
+E:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+E:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Ayuda.resources
+E:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Paint.resources
+E:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+E:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+E:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+E:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.exe
+E:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.pdb
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe.config
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.pdb
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Ayuda.resources
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Paint.resources
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.exe
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.pdb
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Demostracion.resources
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Demostracion.resources
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe.config
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.exe
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\Paint.pdb
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Ayuda.resources
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Demostracion.resources
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Paint.resources
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.exe
+F:\CAIR\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.pdb
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Demostracion.resources
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\Paint\obj\Debug\Paint.Demostracion.resources
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.exe.config
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.exe
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.pdb
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Ayuda.resources
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Demostracion.resources
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Paint.resources
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.CopyComplete
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.exe
+D:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.pdb
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.exe.config
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.exe
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.pdb
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Ayuda.resources
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Demostracion.resources
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Paint.resources
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Properties.Resources.resources
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.CopyComplete
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.exe
+G:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.pdb
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.exe.config
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.exe
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.pdb
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Ayuda.resources
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Demostracion.resources
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Paint.resources
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.CopyComplete
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.exe
+F:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.pdb
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.exe.config
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.exe
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.pdb
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Ayuda.resources
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Demostracion.resources
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Paint.resources
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Properties.Resources.resources
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.CopyComplete
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.exe
+J:\Escuela\Universidad\Tercer año\Semestre V\Geometria analitica y graficación\S\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.pdb
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.exe.config
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.exe
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\Paint.pdb
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Ayuda.resources
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Demostracion.resources
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.csproj.CopyComplete
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.exe
+C:\Users\Carlo\OneDrive\Escritorio\Nueva carpeta\Graficacion Iribe Rodriguez Carlos Alberto\Paint\obj\Debug\Paint.pdb
