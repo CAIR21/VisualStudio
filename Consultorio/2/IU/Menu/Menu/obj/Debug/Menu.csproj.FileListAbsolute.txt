@@ -1,0 +1,12 @@
+C:\Users\CAIR\Desktop\2\IU\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\CAIR\Desktop\2\IU\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\CAIR\Desktop\2\IU\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\CAIR\Desktop\2\IU\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\CAIR\Desktop\2\IU\Menu\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\CAIR\Desktop\2\IU\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\CAIR\Desktop\2\IU\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\CAIR\Desktop\2\IU\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\CAIR\Desktop\2\IU\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\CAIR\Desktop\2\IU\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\CAIR\Desktop\2\IU\Menu\Menu\obj\Debug\Menu.Form2.resources
+C:\Users\CAIR\Desktop\2\IU\Menu\Menu\obj\Debug\Menu.Form3.resources

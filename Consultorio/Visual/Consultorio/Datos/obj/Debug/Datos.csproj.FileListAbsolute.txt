@@ -1,0 +1,6 @@
+C:\Users\CAIR\Desktop\Aplicacion\Visual\Consultorio\Datos\bin\Debug\Datos.dll
+C:\Users\CAIR\Desktop\Aplicacion\Visual\Consultorio\Datos\bin\Debug\Datos.pdb
+C:\Users\CAIR\Desktop\Aplicacion\Visual\Consultorio\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\CAIR\Desktop\Aplicacion\Visual\Consultorio\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\CAIR\Desktop\Aplicacion\Visual\Consultorio\Datos\obj\Debug\Datos.dll
+C:\Users\CAIR\Desktop\Aplicacion\Visual\Consultorio\Datos\obj\Debug\Datos.pdb

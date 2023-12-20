@@ -1,0 +1,44 @@
+C:\Users\CAIR\Desktop\2\Login\Domain\bin\Debug\Domain.dll
+C:\Users\CAIR\Desktop\2\Login\Domain\bin\Debug\Domain.pdb
+C:\Users\CAIR\Desktop\2\Login\Domain\bin\Debug\DataAccess.dll
+C:\Users\CAIR\Desktop\2\Login\Domain\bin\Debug\DataAccess.pdb
+C:\Users\CAIR\Desktop\2\Login\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\CAIR\Desktop\2\Login\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\CAIR\Desktop\2\Login\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\CAIR\Desktop\2\Login\Domain\obj\Debug\Domain.dll
+C:\Users\CAIR\Desktop\2\Login\Domain\obj\Debug\Domain.pdb
+C:\Users\CAIR\Desktop\2\Login\Domain\bin\Debug\Comun.dll
+C:\Users\CAIR\Desktop\2\Login\Domain\bin\Debug\Comun.pdb
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\bin\Debug\Domain.dll
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\bin\Debug\Domain.pdb
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\bin\Debug\Comun.dll
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\bin\Debug\DataAccess.dll
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\bin\Debug\Comun.pdb
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\bin\Debug\DataAccess.pdb
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\obj\Debug\Domain.csproj.CopyComplete
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\obj\Debug\Domain.dll
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\obj\Debug\Domain.pdb
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\bin\Debug\Domain.dll
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\bin\Debug\Domain.pdb
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\bin\Debug\Comun.dll
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\bin\Debug\DataAccess.dll
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\bin\Debug\Comun.pdb
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\bin\Debug\DataAccess.pdb
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\obj\Debug\Domain.csproj.CopyComplete
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\obj\Debug\Domain.dll
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Domain\obj\Debug\Domain.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Domain\bin\Debug\Domain.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Domain\bin\Debug\Domain.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Domain\bin\Debug\Comun.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Domain\bin\Debug\DataAccess.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Domain\bin\Debug\Comun.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Domain\bin\Debug\DataAccess.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Domain\obj\Debug\Domain.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Domain\obj\Debug\Domain.pdb

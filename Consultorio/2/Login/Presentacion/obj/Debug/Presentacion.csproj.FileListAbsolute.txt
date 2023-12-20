@@ -1,0 +1,133 @@
+C:\Users\CAIR\Desktop\2\Login\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\CAIR\Desktop\2\Login\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\CAIR\Desktop\2\Login\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\CAIR\Desktop\2\Login\Presentacion\bin\Debug\Domain.dll
+C:\Users\CAIR\Desktop\2\Login\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\CAIR\Desktop\2\Login\Presentacion\bin\Debug\DataAccess.dll
+C:\Users\CAIR\Desktop\2\Login\Presentacion\bin\Debug\Domain.pdb
+C:\Users\CAIR\Desktop\2\Login\Presentacion\bin\Debug\DataAccess.pdb
+C:\Users\CAIR\Desktop\2\Login\Presentacion\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\CAIR\Desktop\2\Login\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\CAIR\Desktop\2\Login\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\CAIR\Desktop\2\Login\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\CAIR\Desktop\2\Login\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\CAIR\Desktop\2\Login\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\CAIR\Desktop\2\Login\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\CAIR\Desktop\2\Login\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\CAIR\Desktop\2\Login\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\CAIR\Desktop\2\Login\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\CAIR\Desktop\2\Login\Presentacion\bin\Debug\Comun.dll
+C:\Users\CAIR\Desktop\2\Login\Presentacion\bin\Debug\Comun.pdb
+C:\Users\CAIR\Desktop\2\Login\Presentacion\obj\Debug\Presentacion.Pacientes.resources
+C:\Users\CAIR\Desktop\2\Login\Presentacion\obj\Debug\Presentacion.Citas.resources
+C:\Users\CAIR\Desktop\2\Login\Presentacion\obj\Debug\Presentacion.Historial.resources
+C:\Users\CAIR\Desktop\2\Login\Presentacion\obj\Debug\Presentacion.Recetas.resources
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Presentacion.exe.config
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Presentacion.exe
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Presentacion.pdb
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Comun.dll
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Domain.dll
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\DataAccess.dll
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Comun.pdb
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Domain.pdb
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\DataAccess.pdb
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.Citas.resources
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.Historial.resources
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.Pacientes.resources
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.Recetas.resources
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.exe
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.pdb
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Presentacion.exe.config
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Presentacion.exe
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Presentacion.pdb
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Comun.dll
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Domain.dll
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\DataAccess.dll
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Comun.pdb
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\Domain.pdb
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\DataAccess.pdb
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.Citas.resources
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.Historial.resources
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.Pacientes.resources
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.Recetas.resources
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.exe
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\CapaEntidad.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\CapaNegocio.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\Comun.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\Domain.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\CapaDatos.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\DataAccess.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\Comun.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\Domain.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\CapaDatos.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\DataAccess.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\obj\Debug\Presentacion.Citas.resources
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\obj\Debug\Presentacion.Historial.resources
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\obj\Debug\Presentacion.Pacientes.resources
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\obj\Debug\Presentacion.Formularios.Usuarios.resources
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\obj\Debug\Presentacion.Recetas.resources
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\CAIR\Desktop\Proyecto\2\Login\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\CapaEntidad.dll
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\CapaNegocio.dll
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\Comun.dll
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\Domain.dll
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\CapaDatos.dll
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\DataAccess.dll
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\Comun.pdb
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\Domain.pdb
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\CapaDatos.pdb
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\DataAccess.pdb
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\obj\Debug\Presentacion.Citas.resources
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\obj\Debug\Presentacion.Historial.resources
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\obj\Debug\Presentacion.Pacientes.resources
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\obj\Debug\Presentacion.Formularios.Usuarios.resources
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\obj\Debug\Presentacion.Recetas.resources
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\CAIR\Desktop\Aplicacion\2\Login\Presentacion\obj\Debug\Presentacion.pdb

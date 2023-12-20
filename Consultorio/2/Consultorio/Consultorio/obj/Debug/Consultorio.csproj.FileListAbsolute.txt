@@ -1,0 +1,13 @@
+C:\Users\CAIR\Desktop\Proyecto AYDS\Consultorio\Consultorio\bin\Debug\Consultorio.exe.config
+C:\Users\CAIR\Desktop\Proyecto AYDS\Consultorio\Consultorio\bin\Debug\Consultorio.exe
+C:\Users\CAIR\Desktop\Proyecto AYDS\Consultorio\Consultorio\bin\Debug\Consultorio.pdb
+C:\Users\CAIR\Desktop\Proyecto AYDS\Consultorio\Consultorio\obj\Debug\Consultorio.csprojAssemblyReference.cache
+C:\Users\CAIR\Desktop\Proyecto AYDS\Consultorio\Consultorio\obj\Debug\Consultorio.Form1.resources
+C:\Users\CAIR\Desktop\Proyecto AYDS\Consultorio\Consultorio\obj\Debug\Consultorio.Properties.Resources.resources
+C:\Users\CAIR\Desktop\Proyecto AYDS\Consultorio\Consultorio\obj\Debug\Consultorio.csproj.GenerateResource.cache
+C:\Users\CAIR\Desktop\Proyecto AYDS\Consultorio\Consultorio\obj\Debug\Consultorio.csproj.CoreCompileInputs.cache
+C:\Users\CAIR\Desktop\Proyecto AYDS\Consultorio\Consultorio\obj\Debug\Consultorio.exe
+C:\Users\CAIR\Desktop\Proyecto AYDS\Consultorio\Consultorio\obj\Debug\Consultorio.pdb
+C:\Users\CAIR\Desktop\Proyecto AYDS\Consultorio\Consultorio\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\CAIR\Desktop\Proyecto AYDS\Consultorio\Consultorio\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\CAIR\Desktop\Proyecto AYDS\Consultorio\Consultorio\obj\Debug\Consultorio.csproj.CopyComplete

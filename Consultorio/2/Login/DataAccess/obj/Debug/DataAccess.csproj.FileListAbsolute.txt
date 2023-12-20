@@ -1,0 +1,36 @@
+C:\Users\CAIR\Desktop\2\Login\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\CAIR\Desktop\2\Login\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\CAIR\Desktop\2\Login\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\CAIR\Desktop\2\Login\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\CAIR\Desktop\2\Login\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\CAIR\Desktop\2\Login\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\CAIR\Desktop\2\Login\DataAccess\bin\Debug\Comun.dll
+C:\Users\CAIR\Desktop\2\Login\DataAccess\bin\Debug\Comun.pdb
+C:\Users\CAIR\Desktop\2\Login\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\bin\Debug\DataAccess.dll
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\bin\Debug\DataAccess.pdb
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\bin\Debug\Comun.dll
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\bin\Debug\Comun.pdb
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\obj\Debug\DataAccess.dll
+F:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\obj\Debug\DataAccess.pdb
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\bin\Debug\DataAccess.dll
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\bin\Debug\DataAccess.pdb
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\bin\Debug\Comun.dll
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\bin\Debug\Comun.pdb
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\obj\Debug\DataAccess.dll
+G:\Escuela\Universidad\Semestre IV\Analisis y diseño de software\2\Login\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\DataAccess\bin\Debug\Comun.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\DataAccess\bin\Debug\Comun.pdb
+C:\Users\CAIR\Desktop\Proyecto\2\Login\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\CAIR\Desktop\Proyecto\2\Login\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\CAIR\Desktop\Proyecto\2\Login\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\CAIR\Desktop\Proyecto\2\Login\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\CAIR\Desktop\Proyecto\2\Login\DataAccess\obj\Debug\DataAccess.pdb
